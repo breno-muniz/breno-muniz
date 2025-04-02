@@ -1,42 +1,48 @@
-# 👋 Olá, sou Alex Breno!  
+💻 Alex Breno | Desenvolvedor Front-End
 
-### 🌟 Sobre Mim  
-Sou um desenvolvedor fullSatac apaixonado por tecnologia desde os 10 anos! Durante minha trajetória, mergulhei em diversas áreas como design gráfico e segurança da informação, mas foi no desenvolvimento web que realmente me encontrei. Estou em constante evolução e ansioso para contribuir com projetos inovadores.  
+Bem-vindo ao meu perfil! Sou um desenvolvedor Front-End apaixonado por tecnologia e criação de interfaces modernas e responsivas. Meu foco principal é desenvolver soluções elegantes e eficientes, garantindo uma experiência de usuário fluida e intuitiva.
 
-💻 Atualmente, minhas principais habilidades incluem:  
-- **HTML**, **CSS**, **SASS**  
-- **JavaScript**  e iniciando em **ReactJS & NodeJS**  
-- Experiência prática com **Git**, **GitHub** e **Figma**  
+🚀 Sobre mim
 
-📊 Além disso, tenho **1 ano e 7 meses de experiência como analista de dados**, trabalhando com ferramentas como **Excel**, **Power BI** e lógica de programação.  
+🔥 Apaixonado por tecnologia desde os 10 anos
 
-🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** (EAD) pela Estácio e sempre busco formas de aplicar meus conhecimentos em projetos reais e colaborativos.  
+🎨 Experiência prévia como designer gráfico
 
----
+📊 Conhecimento em análise de dados (Excel, Power BI)
 
-### 🚀 Em Busca da Minha Primeira Oportunidade  
-Estou pronto para iniciar minha jornada profissional como **desenvolvedor Full-Stack**. Busco uma oportunidade onde eu possa aplicar minhas habilidades, aprender com profissionais experientes e contribuir para o sucesso da equipe.  
-  
+🎯 Foco no desenvolvimento web e aprimoramento de UI/UX
 
----
+📚 Sempre aprendendo algo novo para evoluir profissionalmente
 
-### 💡 O Que Estou Fazendo Agora?  
-- **Aprofundando em ReactJS** para criar interfaces mais dinâmicas e interativas  
-- Desenvolvendo meu portfólio com projetos desafiadores  
-- Conectando o desenvolvimento front-end com minha experiência em análise de dados
-- **Aprofundando em NodeJS** para criar API e desenvolver sistemas logicos.
+🛠️ Tecnologias & Ferramentas
 
----
+Linguagens: HTML, CSS, JavaScript 
 
-### ⚡ Um Pouco Mais Sobre Mim  
-- 📍 Moro em **Belém do Pará**  
-- 🏋️‍♂️ Entusiasta de academia, focado em musculação e corrida  
-- 💬 Gosto de aprender, compartilhar conhecimento e enfrentar novos desafios  
+Frameworks & Bibliotecas: Bootstrap, SASS, ReactJS
 
----
+Ferramentas: Git, GitHub, Figma
 
-### 🌐 Onde Me Encontrar?  
-- **Portfólio**: [breno-muniz.github.io/Meu-Portfolio](https://breno-muniz.github.io/Meu-Portfolio/)  
-- **LinkedIn**: [linkedin.com/in/alexmunizribeiro](https://www.linkedin.com/in/alexmunizribeiro/)  
+Outros: UX/UI Design, Versionamento de Código
 
-Estou animado para me conectar com você! Vamos juntos criar algo incrível? 🚀  
+🌱 Em aprendizado
+
+Atualmente, estou aprofundando meus conhecimentos em:
+
+Aperfeiçoamento em ReactJS
+
+Melhoria na lógica de programação
+
+📌 Projetos em destaque
+
+🔗 Portfólio: https://breno-muniz.github.io/Portfolio/
+🔗 U.bank: https://breno-muniz.github.io/Projeto-U.bank/
+
+📫 Contato
+
+Email: devalexbrenomuniz@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/alexmunizribeiro/
+
+Portfólio: https://breno-muniz.github.io/Portfolio/
+
+Vamos construir algo incrível juntos! 🚀
