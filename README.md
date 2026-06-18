@@ -18,4 +18,3 @@ Projetos em destaque:
 • Planejamento Automatizado de Produção
 • Controle Inteligente de Estoque
 • Dashboards Power BI
-• Assistente Comercial IA
